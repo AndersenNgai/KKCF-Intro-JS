@@ -1,8 +1,10 @@
 
 //console log text, expression 
-
+console.log("Hello world");
+let nemo = 10;
+console.log(9+5);
+console.log(9 + 9 * nemo);
 // Create a variable to hold your name as a string
-
 //Concatenate your name variable into a message and log it to the console.
 //Example: “Hello, Zach!” 
 
